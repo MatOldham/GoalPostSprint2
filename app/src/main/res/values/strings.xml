@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoalPost</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_goals">Goals</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="title_more">More</string>
+</resources>
